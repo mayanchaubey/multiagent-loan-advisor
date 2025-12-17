@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+scikit-learn==1.8.0
+pandas
+numpy
+joblib
+streamlit
+google-generativeai
